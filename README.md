@@ -47,15 +47,13 @@ It features authentication with Clerk, a beautifully designed landing page, and 
 
   🛠️ Tech Stack:
 
-  | Category               | Technology                               |
-| ---------------------- | ---------------------------------------- |
-| **Frontend**           | React + Vite                             |
-| **Styling**            | CSS / Tailwind + highlight.js / Prism.js |
-| **Auth**               | Clerk                                    |
-| **Backend (AI)**       | Node.js + Express + Axios                |
-| **AI API**             | Custom AI endpoint `/ai/get-review`      |
-| **Markdown Rendering** | `react-markdown` + `rehype-highlight`    |
-| **Code Editor**        | `react-simple-code-editor`               |
+1. Frontend : React + Vite
+2. Styling : CSS / Tailwind + highlight.js / Prism.js
+3. Auth : Clerk
+4. Backend (AI) : Node.js + Express + Axios
+5. Gemini API for code reviewer and dsa instructor
+6. Markdown Rendering : react-markdown + rehype-highlight
+7. Code Editor : react-simple-code-editor
 
 ----
 
@@ -96,6 +94,8 @@ It features authentication with Clerk, a beautifully designed landing page, and 
 3. AI-Powered Code Reviewer along with DSA Instructor Chatbot
 
 <img width="1910" height="923" alt="image" src="https://github.com/user-attachments/assets/1925b02b-2a3f-4f18-9411-2637f2f26a95" />
+
+
 
 <img width="475" height="726" alt="image" src="https://github.com/user-attachments/assets/324495cc-ac80-49be-b14b-58d5ff87ad04" />
 
